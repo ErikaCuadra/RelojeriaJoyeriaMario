@@ -1,0 +1,117 @@
+body
+{
+
+}
+
+
+
+h1
+{
+  padding-bottom: 2em;
+  border-bottom: none;
+  font-size: 16px;
+  margin: 0;
+  padding: 5px 0 .3em;
+  line-height: 32px;
+  text-align: center;
+  color: black;
+}
+
+h3
+{
+  text-transform: uppercase;
+  font-size: 13px;
+  line-height: 32px;
+  border-bottom: 1px #eee solid;
+  color: #000000;
+  margin-bottom: 2.5em;
+  padding-bottom: .5em;
+}
+
+
+section.sidebar_information
+{
+  color: #000000;
+}
+
+div.sidebar_userimage
+{
+  cursor: pointer;
+  border-radius: 80px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0% 35% 0;
+  padding: 8% 0 0;
+  text-align: center;
+
+}
+
+div.sidebar_userimage img
+{
+
+  border-radius: 26px;
+  width: 75px;
+  padding: 7px;
+  border: 1px solid #ccc; 
+}
+
+div.comunidad-autoria
+{
+  border-bottom: solid 1px black;
+  background: black;
+  border-top: solid 1px black;
+  padding: 3% 0;
+  margin: 12% 0;
+}
+
+div.logo
+{
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+  padding: 3% 0 0;
+}
+
+div.logo img
+{
+  width: 45px;
+  border-radius: 45px;
+  padding: 0;
+  margin: 0;
+}
+
+div.nombre
+{
+display: inline-block;
+vertical-align: top;
+padding: 0;
+margin: 0% 33%;
+font-size: 27px;
+text-align: center;
+}
+.menu_principal
+{  
+ float:left;
+ left:25%;
+ list-style-type:none;
+ margin:0 auto;
+ padding:0;
+ position:relative;
+}
+
+.menu_principal li
+{
+  float: left;
+  display: inline;
+}
+.menu_principal li a
+{
+  padding: 10px;
+  font-size: 20px;    
+}
+
+.cont_menu_principal 
+{  
+  background: #C70039;
+  border: 51px solid #C70039; 
+}
